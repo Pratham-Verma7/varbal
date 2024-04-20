@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "280465158374",
+    "project_id": "someone-datingapp",
+    "storage_bucket": "someone-datingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280465158374:android:615e52f01ff9ee60660b27",
+        "android_client_info": {
+          "package_name": "com.example.someone_datingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280465158374-abblgbo39q5edk46dqbg3ng03l7d2kgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.someone_datingapp",
+            "certificate_hash": "4d9605c5578352b4b82166b107b0715242ade88e"
+          }
+        },
+        {
+          "client_id": "280465158374-28b52vvnmocf1nh69od7a2gcfse9geih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhuU2hOePaq8FpjjWV0LNBB3ISZx4jl6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280465158374-28b52vvnmocf1nh69od7a2gcfse9geih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280465158374-2edljed8pbludn7pnf4k76jib7te67pc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.someoneDatingapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
