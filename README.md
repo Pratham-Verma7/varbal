@@ -1,4 +1,4 @@
-# someone_datingapp
+# Verbal
 
 A new Flutter project.
 
